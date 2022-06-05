@@ -1,11 +1,11 @@
-//Multiply 10 with 5, and alert the result:
-alert(10 *5);
+//Multiply 5 with 3, and alert the result:
+alert(5 *3);
 
-//Divide 10 by 2, and alert the result:
-alert(10 /2);
+//Divide 20 by 10, and alert the result:
+alert(20 /10);
 
-//Alert the remainder when 15 is divided by 9.
-alert(15 %9);
+//Alert the remainder when 50 is divided by 5.
+alert(50 % 5);
 
 //Use the correct assignment operator that will result in x being 15 (same as x = x + y).
 x = 10;
