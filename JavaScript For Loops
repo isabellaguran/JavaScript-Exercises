@@ -1,0 +1,11 @@
+//Create a loop that runs from 0 to 9.
+let i;
+for(i = 0; i < 10; i++) {
+  console.log(i);
+}
+
+//Create a loop that runs through each item in the fruits array.
+const fruits = ["Apple", "Banana", "Orange"];
+for (x offruits) {
+  console.log(x);
+}
